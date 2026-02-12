@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Minh Quang Nguyen</h1>
 
-<!--
-**minhqng/minhqng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Forging+the+Core+to+Aurum+Standard;Future+Sovereign+Architect+🇩🇪" alt="Typing Animation" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:minhnq.181005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/minh.aurum" target="_blank"><img src="https://img.shields.io/badge/Facebook-0EA5E9?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/minh.aurum" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhqng/minhqng/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhqng/minhqng/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhqng/minhqng/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<br />
+<div align="center">
+  <i>"Stiller Code. Lauter Wert."</i>
+</div>
