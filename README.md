@@ -1,7 +1,10 @@
-<h1 align="center">Minh Quang Nguyen</h1>
+<h1 align="center">
+  Minh Quang Nguyen 
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="35" alt="Germany Flag" style="vertical-align: bottom; margin-left: 10px;" />
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Forging+the+Core+to+Aurum+Standard;Future+Sovereign+Architect+🇩🇪" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Forging+the+Core+to+Aurum+Standard;Sovereign+Mindset.+German+Precision." alt="Typing Animation" />
 </div>
 
 <p align="center">
