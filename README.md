@@ -1,6 +1,6 @@
 <h1 align="center">
   Minh Quang Nguyen 
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="35" alt="Germany Flag" style="vertical-align: bottom; margin-left: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="25" alt="Germany Flag" style="vertical-align: bottom; margin-left: 10px;" />
 </h1>
 
 <div align="center">
