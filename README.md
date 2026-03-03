@@ -29,5 +29,10 @@
 
 <br><br>
 <div align="center">
-  <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i><br><b>— Edsger Dijkstra</b>
+  <p align="center">
+    <i>The secret of change is to focus all your energy not on fighting the old, but on building the new.</i>
+  </p>
+  <p align="center">
+    <sup><b>Dan Millman</b></sup>
+  </p>
 </div>
