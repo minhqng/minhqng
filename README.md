@@ -29,10 +29,16 @@
 
 <br><br>
 <div align="center">
-  <p align="center">
-    <i>The secret of change is to focus all your energy not on fighting the old, but on building the new.</i>
+  <table width="700" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="border: none;">
+        <p align="center">
+    <i>Never lose hope. Storms make people stronger and never last forever.</i>
   </p>
   <p align="center">
-    <sup><b>Dan Millman</b></sup>
+    <sup><b>Roy T. Bennett</b></sup>
   </p>
+      </td>
+    </tr>
+  </table>
 </div>
