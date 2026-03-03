@@ -72,11 +72,11 @@ const main = async () => {
     }
   }
 
-  const quoteMarkdown = `<p align="center">
-    <i>${quote.text}</i>
-  </p>
+  const quoteMarkdown = `<h4 align="center">
+    <i>"${quote.text}"</i>
+  </h4>
   <p align="center">
-    <sup><b>${quote.author}</b></sup>
+    <b>${quote.author}</b>
   </p>`;
   
   let template = fs.readFileSync("template.md").toString();
