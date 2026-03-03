@@ -26,3 +26,8 @@
 <div align="center">
   <i>"Stiller Code. Lauter Wert."</i>
 </div>
+
+<br><br>
+<div align="center">
+  <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i><br><b>— Edsger Dijkstra</b>
+</div>
