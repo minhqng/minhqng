@@ -29,5 +29,11 @@
 
 <br><br>
 <div align="center">
-  {QUOTE_HERE}
+  <table width="700" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="border: none;">
+        {QUOTE_HERE}
+      </td>
+    </tr>
+  </table>
 </div>
