@@ -32,11 +32,11 @@
   <table width="700" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" style="border: none;">
-        <p align="center">
-    <i>Never lose hope. Storms make people stronger and never last forever.</i>
-  </p>
+        <h4 align="center">
+    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+  </h4>
   <p align="center">
-    <sup><b>Roy T. Bennett</b></sup>
+    <b>Bill Gates</b>
   </p>
       </td>
     </tr>
