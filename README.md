@@ -29,16 +29,10 @@
 
 <br><br>
 <div align="center">
-  <table width="700" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="border: none;">
-        <h4 align="center">
-    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+  <h4 align="center">
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Bill Gates</b>
+    <b>Kent Beck</b>
   </p>
-      </td>
-    </tr>
-  </table>
 </div>
