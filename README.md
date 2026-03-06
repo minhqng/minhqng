@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Fear is a natural reaction to moving closer to the truth."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Pema Chodron</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
