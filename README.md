@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Harold Abelson</b>
   </p>
 </div>
