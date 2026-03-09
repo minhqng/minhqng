@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Harold Abelson</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
