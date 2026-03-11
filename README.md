@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The biggest challenge after success is shutting up about it."</i>
+    <i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
   </h4>
   <p align="center">
-    <b>Criss Jami</b>
+    <b>Theodore Roosevelt</b>
   </p>
 </div>
