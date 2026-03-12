@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+    <i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
   </h4>
   <p align="center">
-    <b>Theodore Roosevelt</b>
+    <b>Steve Harvey</b>
   </p>
 </div>
