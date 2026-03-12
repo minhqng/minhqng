@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+    <i>"Debugging is twice as hard as writing the code in the first place."</i>
   </h4>
   <p align="center">
-    <b>Steve Harvey</b>
+    <b>Brian Kernighan</b>
   </p>
 </div>
