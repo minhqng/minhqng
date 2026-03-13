@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+    <i>"Everything you've ever wanted is on the other side of fear."</i>
   </h4>
   <p align="center">
-    <b>James Allen</b>
+    <b>Brian Tracy</b>
   </p>
 </div>
