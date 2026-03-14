@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Everything you've ever wanted is on the other side of fear."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Brian Tracy</b>
+    <b>John Johnson</b>
   </p>
 </div>
