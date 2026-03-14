@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"First, solve the problem. Then, write the code."</i>
+    <i>"Progress is limited by your ability to change your mind."</i>
   </h4>
   <p align="center">
-    <b>John Johnson</b>
+    <b>Jack Butcher</b>
   </p>
 </div>
