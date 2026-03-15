@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Progress is limited by your ability to change your mind."</i>
+    <i>"The greatest weariness comes from work not done."</i>
   </h4>
   <p align="center">
-    <b>Jack Butcher</b>
+    <b>Eric Hoffer</b>
   </p>
 </div>
