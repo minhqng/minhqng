@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The greatest weariness comes from work not done."</i>
+    <i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
   </h4>
   <p align="center">
-    <b>Eric Hoffer</b>
+    <b>Sigmund Freud</b>
   </p>
 </div>
