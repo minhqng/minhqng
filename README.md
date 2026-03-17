@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
+    <i>"However difficult life may seem, there is always something you can do and succeed at."</i>
   </h4>
   <p align="center">
-    <b>Edsger Dijkstra</b>
+    <b>Stephen Hawking</b>
   </p>
 </div>
