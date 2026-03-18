@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"First, solve the problem. Then, write the code."</i>
+    <i>"The whole is greater than the sum of its parts."</i>
   </h4>
   <p align="center">
-    <b>John Johnson</b>
+    <b>Aristotle</b>
   </p>
 </div>
