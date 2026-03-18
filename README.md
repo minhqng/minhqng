@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Stephen Hawking</b>
+    <b>John Johnson</b>
   </p>
 </div>
