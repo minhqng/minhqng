@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The whole is greater than the sum of its parts."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Aristotle</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
