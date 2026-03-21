@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Talk is cheap. Show me the code."</i>
+    <i>"You can have results or excuses, but not both."</i>
   </h4>
   <p align="center">
-    <b>Linus Torvalds</b>
+    <b>Arnold Schwarzenegger</b>
   </p>
 </div>
