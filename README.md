@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You may delay, but time will not."</i>
+    <i>"Money poisons you when you've got it, and starves you when you haven't."</i>
   </h4>
   <p align="center">
-    <b>Benjamin Franklin</b>
+    <b>D. H. Lawrence</b>
   </p>
 </div>
