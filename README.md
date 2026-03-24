@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+    <i>"Perplexity is the beginning of knowledge."</i>
   </h4>
   <p align="center">
-    <b>D. H. Lawrence</b>
+    <b>Kahlil Gibran</b>
   </p>
 </div>
