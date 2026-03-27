@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+    <i>"Rewards and punishment is the lowest form of education."</i>
   </h4>
   <p align="center">
-    <b>Dalai Lama</b>
+    <b>Zhuangzi</b>
   </p>
 </div>
