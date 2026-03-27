@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>Dalai Lama</b>
   </p>
 </div>
