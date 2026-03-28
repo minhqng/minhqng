@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
