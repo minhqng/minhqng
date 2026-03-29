@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
+    <i>"Do not wait for leaders; do it alone, person to person."</i>
   </h4>
   <p align="center">
-    <b>Roy T. Bennett</b>
+    <b>Mother Teresa</b>
   </p>
 </div>
