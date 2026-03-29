@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Do not wait for leaders; do it alone, person to person."</i>
+    <i>"Make peace with your inner turmoil."</i>
   </h4>
   <p align="center">
-    <b>Mother Teresa</b>
+    <b>Unknown</b>
   </p>
 </div>
