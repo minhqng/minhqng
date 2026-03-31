@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Stop being tormented by everyone else's reaction to you."</i>
+    <i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
   </h4>
   <p align="center">
-    <b>Joyce Meyer</b>
+    <b>Dan Brown</b>
   </p>
 </div>
