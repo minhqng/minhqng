@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you done it, it ain't bragging."</i>
+    <i>"Stop being tormented by everyone else's reaction to you."</i>
   </h4>
   <p align="center">
-    <b>Walt Whitman</b>
+    <b>Joyce Meyer</b>
   </p>
 </div>
