@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Dan Brown</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
