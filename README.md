@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Marilyn Monroe</b>
   </p>
 </div>
