@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   </h4>
   <p align="center">
-    <b>Marilyn Monroe</b>
+    <b>Patrick McKenzie</b>
   </p>
 </div>
