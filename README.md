@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
+    <i>"The function of good software is to make the complex appear to be simple."</i>
   </h4>
   <p align="center">
-    <b>Patrick McKenzie</b>
+    <b>Grady Booch</b>
   </p>
 </div>
