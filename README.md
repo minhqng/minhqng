@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The function of good software is to make the complex appear to be simple."</i>
+    <i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
   </h4>
   <p align="center">
-    <b>Grady Booch</b>
+    <b>Jeffrey Gitomer</b>
   </p>
 </div>
