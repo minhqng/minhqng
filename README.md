@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
+    <i>"Desire for the fruits of work must never be your motive in working."</i>
   </h4>
   <p align="center">
-    <b>Jeffrey Gitomer</b>
+    <b>Bhagavad Gita</b>
   </p>
 </div>
