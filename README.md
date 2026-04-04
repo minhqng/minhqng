@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Desire for the fruits of work must never be your motive in working."</i>
+    <i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
   </h4>
   <p align="center">
-    <b>Bhagavad Gita</b>
+    <b>Mark Twain</b>
   </p>
 </div>
