@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+    <i>"Change yourself - you are in control."</i>
   </h4>
   <p align="center">
-    <b>Mark Twain</b>
+    <b>Mahatma Gandhi</b>
   </p>
 </div>
