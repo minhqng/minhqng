@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"Be brave to stand for what you believe in even if you stand alone."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
