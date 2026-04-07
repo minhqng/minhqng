@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Be brave to stand for what you believe in even if you stand alone."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Roy T. Bennett</b>
+    <b>John Johnson</b>
   </p>
 </div>
