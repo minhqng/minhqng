@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best error message is the one that never shows up."</i>
+    <i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
   </h4>
   <p align="center">
-    <b>Thomas Fuchs</b>
+    <b>Dalai Lama</b>
   </p>
 </div>
