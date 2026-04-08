@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Patrick McKenzie</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
