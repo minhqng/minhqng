@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is better to fail in originality than to succeed in imitation."</i>
+    <i>"It's not a bug — it's an undocumented feature."</i>
   </h4>
   <p align="center">
-    <b>Herman Melville</b>
+    <b>Anonymous</b>
   </p>
 </div>
