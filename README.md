@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
+    <i>"Debugging is twice as hard as writing the code in the first place."</i>
   </h4>
   <p align="center">
-    <b>Antoine de Saint-Exupéry</b>
+    <b>Brian Kernighan</b>
   </p>
 </div>
