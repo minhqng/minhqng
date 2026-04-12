@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+    <i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
   </h4>
   <p align="center">
-    <b>Kahlil Gibran</b>
+    <b>Og Mandino</b>
   </p>
 </div>
