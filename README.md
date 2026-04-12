@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Kahlil Gibran</b>
   </p>
 </div>
