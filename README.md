@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+    <i>"Don't hate the player. Change the game."</i>
   </h4>
   <p align="center">
-    <b>Aristotle</b>
+    <b>Steve Harvey</b>
   </p>
 </div>
