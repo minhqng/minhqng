@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
+    <i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
   </h4>
   <p align="center">
-    <b>Og Mandino</b>
+    <b>Aristotle</b>
   </p>
 </div>
