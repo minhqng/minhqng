@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't hate the player. Change the game."</i>
+    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
   </h4>
   <p align="center">
-    <b>Steve Harvey</b>
+    <b>Edsger Dijkstra</b>
   </p>
 </div>
