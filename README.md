@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
+    <i>"The function of good software is to make the complex appear to be simple."</i>
   </h4>
   <p align="center">
-    <b>Edsger Dijkstra</b>
+    <b>Grady Booch</b>
   </p>
 </div>
