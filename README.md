@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The function of good software is to make the complex appear to be simple."</i>
+    <i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
   </h4>
   <p align="center">
-    <b>Grady Booch</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
