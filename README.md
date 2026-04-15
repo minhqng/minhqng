@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+    <i>"Your mind is infinite, it's your doubts that are limiting."</i>
   </h4>
   <p align="center">
-    <b>Roy T. Bennett</b>
+    <b>Robert Kiyosaki</b>
   </p>
 </div>
