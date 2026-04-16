@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Your mind is infinite, it's your doubts that are limiting."</i>
+    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
   </h4>
   <p align="center">
-    <b>Robert Kiyosaki</b>
+    <b>Bill Gates</b>
   </p>
 </div>
