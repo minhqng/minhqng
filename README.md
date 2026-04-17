@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Robert Greene</b>
   </p>
 </div>
