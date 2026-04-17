@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+    <i>"People who avoid failure also avoid success."</i>
   </h4>
   <p align="center">
-    <b>Robert Greene</b>
+    <b>Robert Kiyosaki</b>
   </p>
 </div>
