@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"People who avoid failure also avoid success."</i>
+    <i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
   </h4>
   <p align="center">
-    <b>Robert Kiyosaki</b>
+    <b>Robert Greene</b>
   </p>
 </div>
