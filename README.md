@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Remember, hope is a good thing, maybe the best of things."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Stephen King</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
