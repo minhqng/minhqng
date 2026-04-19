@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+    <i>"Remember, hope is a good thing, maybe the best of things."</i>
   </h4>
   <p align="center">
-    <b>Marcus Aurelius</b>
+    <b>Stephen King</b>
   </p>
 </div>
