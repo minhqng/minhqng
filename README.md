@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+    <i>"The more something threatens your identity, the more you will avoid it."</i>
   </h4>
   <p align="center">
-    <b>Martin Fowler</b>
+    <b>Mark Manson</b>
   </p>
 </div>
