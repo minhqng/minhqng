@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"If you genuinely want something, don't wait for it - teach yourself."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Gurbaksh Chahal</b>
   </p>
 </div>
