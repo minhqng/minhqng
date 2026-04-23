@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"No matter what happens, always be yourself."</i>
+    <i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
   </h4>
   <p align="center">
-    <b>Dale Carnegie</b>
+    <b>Sigmund Freud</b>
   </p>
 </div>
