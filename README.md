@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+    <i>"The function of good software is to make the complex appear to be simple."</i>
   </h4>
   <p align="center">
-    <b>Sigmund Freud</b>
+    <b>Grady Booch</b>
   </p>
 </div>
