@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+    <i>"Try not to become a man of success, but rather try to become a man of value."</i>
   </h4>
   <p align="center">
-    <b>Bob Marley</b>
+    <b>Albert Einstein</b>
   </p>
 </div>
