@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Try not to become a man of success, but rather try to become a man of value."</i>
+    <i>"Debugging is twice as hard as writing the code in the first place."</i>
   </h4>
   <p align="center">
-    <b>Albert Einstein</b>
+    <b>Brian Kernighan</b>
   </p>
 </div>
