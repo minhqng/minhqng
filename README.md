@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Rumi</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
