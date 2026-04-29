@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Rumi</b>
   </p>
 </div>
