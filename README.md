@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"He who hesitates is a damned fool."</i>
+    <i>"Wherever you are, and whatever you do, be in love."</i>
   </h4>
   <p align="center">
-    <b>Mae West</b>
+    <b>Rumi</b>
   </p>
 </div>
