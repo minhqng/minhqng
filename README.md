@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best error message is the one that never shows up."</i>
+    <i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
   </h4>
   <p align="center">
-    <b>Thomas Fuchs</b>
+    <b>Oprah Winfrey</b>
   </p>
 </div>
