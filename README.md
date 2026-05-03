@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Everything is possible. The impossible just takes longer."</i>
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Dan Brown</b>
+    <b>Kent Beck</b>
   </p>
 </div>
