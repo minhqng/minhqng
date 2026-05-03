@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Alan Watts</b>
   </p>
 </div>
