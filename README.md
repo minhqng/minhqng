@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Alan Watts</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
