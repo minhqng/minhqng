@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The only way to learn a new programming language is by writing programs in it."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Dennis Ritchie</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
