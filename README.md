@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best error message is the one that never shows up."</i>
+    <i>"Adventure is not outside man; it is within."</i>
   </h4>
   <p align="center">
-    <b>Thomas Fuchs</b>
+    <b>George Eliot</b>
   </p>
 </div>
