@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Adventure is not outside man; it is within."</i>
+    <i>"Whatever you decide to do, make sure it makes you happy."</i>
   </h4>
   <p align="center">
-    <b>George Eliot</b>
+    <b>Paulo Coelho</b>
   </p>
 </div>
