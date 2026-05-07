@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Talk is cheap. Show me the code."</i>
+    <i>"All our knowledge has its origins in our perceptions."</i>
   </h4>
   <p align="center">
-    <b>Linus Torvalds</b>
+    <b>Leonardo da Vinci</b>
   </p>
 </div>
