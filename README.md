@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"All our knowledge has its origins in our perceptions."</i>
+    <i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
   </h4>
   <p align="center">
-    <b>Leonardo da Vinci</b>
+    <b>Naval Ravikant</b>
   </p>
 </div>
