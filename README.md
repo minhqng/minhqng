@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+    <i>"To some degree, you control your life by controlling your time."</i>
   </h4>
   <p align="center">
-    <b>Naval Ravikant</b>
+    <b>Conrad Hilton</b>
   </p>
 </div>
