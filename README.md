@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Storms don't last forever."</i>
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Unknown</b>
+    <b>Kent Beck</b>
   </p>
 </div>
