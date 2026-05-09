@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"To some degree, you control your life by controlling your time."</i>
+    <i>"Storms don't last forever."</i>
   </h4>
   <p align="center">
-    <b>Conrad Hilton</b>
+    <b>Unknown</b>
   </p>
 </div>
