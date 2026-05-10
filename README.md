@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"We live only now. Everything else is either passed or is unknown."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Marcus Aurelius</b>
   </p>
 </div>
