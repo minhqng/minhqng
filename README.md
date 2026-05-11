@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The function of good software is to make the complex appear to be simple."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Grady Booch</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
