@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The busy man is never wise and the wise man is never busy."</i>
+    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
   </h4>
   <p align="center">
-    <b>Lin Yutang</b>
+    <b>Harold Abelson</b>
   </p>
 </div>
