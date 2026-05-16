@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Harold Abelson</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
