@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It all depends on what you choose to believe."</i>
+    <i>"The world is a puzzle; no need to make sense out of it."</i>
   </h4>
   <p align="center">
-    <b>Spencer Johnson</b>
+    <b>Socrates</b>
   </p>
 </div>
