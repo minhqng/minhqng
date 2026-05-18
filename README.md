@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The world is a puzzle; no need to make sense out of it."</i>
+    <i>"It's not whether you get knocked down, its whether you get back up."</i>
   </h4>
   <p align="center">
-    <b>Socrates</b>
+    <b>Vince Lombardi</b>
   </p>
 </div>
