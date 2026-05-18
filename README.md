@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's not whether you get knocked down, its whether you get back up."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Vince Lombardi</b>
+    <b>Cory House</b>
   </p>
 </div>
