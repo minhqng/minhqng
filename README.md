@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You can't build a reputation on what you are going to do. "</i>
+    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
   </h4>
   <p align="center">
-    <b>Henry Ford</b>
+    <b>Antoine de Saint-Exupéry</b>
   </p>
 </div>
