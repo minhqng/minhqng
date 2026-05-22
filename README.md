@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When one does not have what one wants, one must want what one has."</i>
+    <i>"Every act of creation is first an act of destruction."</i>
   </h4>
   <p align="center">
-    <b>Sigmund Freud</b>
+    <b>Pablo Picasso</b>
   </p>
 </div>
