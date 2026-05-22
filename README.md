@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every act of creation is first an act of destruction."</i>
+    <i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
   </h4>
   <p align="center">
-    <b>Pablo Picasso</b>
+    <b>John Carmack</b>
   </p>
 </div>
