@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Theodore Roosevelt</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
