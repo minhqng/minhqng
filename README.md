@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's not a bug — it's an undocumented feature."</i>
+    <i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
   </h4>
   <p align="center">
-    <b>Anonymous</b>
+    <b>Theodore Roosevelt</b>
   </p>
 </div>
