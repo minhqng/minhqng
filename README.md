@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
+    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
   </h4>
   <p align="center">
-    <b>Ken Thompson</b>
+    <b>Antoine de Saint-Exupéry</b>
   </p>
 </div>
