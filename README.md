@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Be not afraid of growing slowly, be afraid only of standing still."</i>
+    <i>"Stop wasting time defending your problems and work on addressing them instead."</i>
   </h4>
   <p align="center">
-    <b>Chinese Proverb</b>
+    <b>Celestine Chua</b>
   </p>
 </div>
