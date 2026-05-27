@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+    <i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
   </h4>
   <p align="center">
-    <b>Celestine Chua</b>
+    <b>Voltaire</b>
   </p>
 </div>
