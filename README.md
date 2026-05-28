@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Voltaire</b>
+    <b>John Johnson</b>
   </p>
 </div>
