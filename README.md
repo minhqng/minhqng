@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"First, solve the problem. Then, write the code."</i>
+    <i>"Debugging is twice as hard as writing the code in the first place."</i>
   </h4>
   <p align="center">
-    <b>John Johnson</b>
+    <b>Brian Kernighan</b>
   </p>
 </div>
