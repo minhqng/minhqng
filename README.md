@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Alexandre Dumas</b>
   </p>
 </div>
