@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
