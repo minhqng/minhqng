@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
