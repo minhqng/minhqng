@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Think progress, not perfection."</i>
+    <i>"A person hears only what they understand."</i>
   </h4>
   <p align="center">
-    <b>Ryan Holiday</b>
+    <b>Johann Wolfgang von Goethe</b>
   </p>
 </div>
