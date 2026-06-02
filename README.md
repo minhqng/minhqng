@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The universe doesn't allow perfection."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Stephen Hawking</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
