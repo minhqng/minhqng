@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"Whatever you are, be a good one."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Abraham Lincoln</b>
   </p>
 </div>
