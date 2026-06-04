@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Whatever you are, be a good one."</i>
+    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
   </h4>
   <p align="center">
-    <b>Abraham Lincoln</b>
+    <b>Ken Thompson</b>
   </p>
 </div>
