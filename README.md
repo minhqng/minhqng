@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
+    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
   </h4>
   <p align="center">
-    <b>Antoine de Saint-Exupéry</b>
+    <b>Edsger Dijkstra</b>
   </p>
 </div>
