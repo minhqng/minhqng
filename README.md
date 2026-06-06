@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"Because of your smile, you make life more beautiful."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>Thich Nhat Hanh</b>
   </p>
 </div>
