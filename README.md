@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+    <i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
   </h4>
   <p align="center">
-    <b>Estee Lauder</b>
+    <b>Morihei Ueshiba</b>
   </p>
 </div>
