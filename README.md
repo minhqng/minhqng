@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Morihei Ueshiba</b>
+    <b>Cory House</b>
   </p>
 </div>
