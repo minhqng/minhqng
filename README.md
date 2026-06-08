@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>W.P. Kinsella</b>
   </p>
 </div>
