@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
   </h4>
   <p align="center">
-    <b>W.P. Kinsella</b>
+    <b>Antoine de Saint-Exupéry</b>
   </p>
 </div>
