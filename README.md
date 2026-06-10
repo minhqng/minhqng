@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+    <i>"Simplicity is the soul of efficiency."</i>
   </h4>
   <p align="center">
-    <b>Zen Proverb</b>
+    <b>Austin Freeman</b>
   </p>
 </div>
