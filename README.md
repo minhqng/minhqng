@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+    <i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
   </h4>
   <p align="center">
-    <b>Robert Greene</b>
+    <b>Zen Proverb</b>
   </p>
 </div>
