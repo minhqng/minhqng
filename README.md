@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Trust your instincts: my first reaction is almost invariably the right one."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Estee Lauder</b>
   </p>
 </div>
