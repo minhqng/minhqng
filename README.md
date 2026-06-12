@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:minhnq.181005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/minh.aurum" target="_blank"><img src="https://img.shields.io/badge/Facebook-0EA5E9?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/minh.aurum" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:minhnq.181005@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/m1nhqng" target="_blank"><img src="https://img.shields.io/badge/Facebook-0EA5E9?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/m1nhqng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br />
