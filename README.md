@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+    <i>"Talk to someone about themselves and they'll listen for hours."</i>
   </h4>
   <p align="center">
-    <b>Mark Twain</b>
+    <b>Dale Carnegie</b>
   </p>
 </div>
