@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Talk to someone about themselves and they'll listen for hours."</i>
+    <i>"Just get out and do it. You will be very, very glad that you did."</i>
   </h4>
   <p align="center">
-    <b>Dale Carnegie</b>
+    <b>Christopher McCandless</b>
   </p>
 </div>
