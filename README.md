@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+    <i>"The fastest way to change is to laugh at your own folly."</i>
   </h4>
   <p align="center">
-    <b>Stephen King</b>
+    <b>Spencer Johnson</b>
   </p>
 </div>
