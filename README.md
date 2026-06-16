@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The fastest way to change is to laugh at your own folly."</i>
+    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   </h4>
   <p align="center">
-    <b>Spencer Johnson</b>
+    <b>Patrick McKenzie</b>
   </p>
 </div>
