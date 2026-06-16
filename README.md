@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
+    <i>"Don't explain your philosophy. Embody it."</i>
   </h4>
   <p align="center">
-    <b>Patrick McKenzie</b>
+    <b>Epictetus</b>
   </p>
 </div>
