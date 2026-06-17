@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't explain your philosophy. Embody it."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Epictetus</b>
+    <b>John Johnson</b>
   </p>
 </div>
