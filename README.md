@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Success is a consequence and must not be a goal."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Gustave Flaubert</b>
+    <b>John Johnson</b>
   </p>
 </div>
