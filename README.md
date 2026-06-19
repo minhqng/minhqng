@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"True it is, we only hate those whom we do not know."</i>
+    <i>"Any game becomes important when you know and love the players."</i>
   </h4>
   <p align="center">
-    <b>Andrew Carnegie</b>
+    <b>W.P. Kinsella</b>
   </p>
 </div>
