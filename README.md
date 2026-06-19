@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Any game becomes important when you know and love the players."</i>
+    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
   </h4>
   <p align="center">
-    <b>W.P. Kinsella</b>
+    <b>Edsger Dijkstra</b>
   </p>
 </div>
