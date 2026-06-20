@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The most important thing in communication is to hear what isn't being said."</i>
+    <i>"Winners don't Quit. That's why they Win."</i>
   </h4>
   <p align="center">
-    <b>Peter Drucker</b>
+    <b>Unknown</b>
   </p>
 </div>
