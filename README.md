@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I've always tried to go a step past wherever people expected me to end up."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Beverly Sills</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
