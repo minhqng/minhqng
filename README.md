@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"I've always tried to go a step past wherever people expected me to end up."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Beverly Sills</b>
   </p>
 </div>
