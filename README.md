@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The only way to learn a new programming language is by writing programs in it."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Dennis Ritchie</b>
+    <b>John Johnson</b>
   </p>
 </div>
