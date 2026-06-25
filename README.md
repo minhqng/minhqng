@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Bill Gates</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
