@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best error message is the one that never shows up."</i>
+    <i>"Discipline is the bridge between goals and accomplishment."</i>
   </h4>
   <p align="center">
-    <b>Thomas Fuchs</b>
+    <b>Jim Rohn</b>
   </p>
 </div>
