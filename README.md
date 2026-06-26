@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>James Allen</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
