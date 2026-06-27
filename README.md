@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Discipline is the bridge between goals and accomplishment."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Jim Rohn</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
