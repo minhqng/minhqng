@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The only way to learn a new programming language is by writing programs in it."</i>
+    <i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
   </h4>
   <p align="center">
-    <b>Dennis Ritchie</b>
+    <b>Elvis Presley</b>
   </p>
 </div>
