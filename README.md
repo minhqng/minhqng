@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
   </h4>
   <p align="center">
-    <b>A.A. Milne</b>
+    <b>Antoine de Saint-Exupéry</b>
   </p>
 </div>
