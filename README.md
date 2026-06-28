@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+    <i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
   </h4>
   <p align="center">
-    <b>Elvis Presley</b>
+    <b>A.A. Milne</b>
   </p>
 </div>
