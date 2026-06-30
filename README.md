@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
+    <i>"It's not a bug — it's an undocumented feature."</i>
   </h4>
   <p align="center">
-    <b>John D. Rockefeller</b>
+    <b>Anonymous</b>
   </p>
 </div>
