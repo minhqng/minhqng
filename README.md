@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's not a bug — it's an undocumented feature."</i>
+    <i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
   </h4>
   <p align="center">
-    <b>Anonymous</b>
+    <b>Jeffrey Gitomer</b>
   </p>
 </div>
