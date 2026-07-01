@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"It's not a bug — it's an undocumented feature."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>Anonymous</b>
   </p>
 </div>
