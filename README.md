@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Jeffrey Gitomer</b>
+    <b>Cory House</b>
   </p>
 </div>
