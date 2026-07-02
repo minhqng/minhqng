@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Better than the young man's knowledge is the old man's experience."</i>
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Tibetan Proverb</b>
+    <b>Kent Beck</b>
   </p>
 </div>
