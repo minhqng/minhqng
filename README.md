@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's not a bug — it's an undocumented feature."</i>
+    <i>"Better than the young man's knowledge is the old man's experience."</i>
   </h4>
   <p align="center">
-    <b>Anonymous</b>
+    <b>Tibetan Proverb</b>
   </p>
 </div>
