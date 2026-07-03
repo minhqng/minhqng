@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
