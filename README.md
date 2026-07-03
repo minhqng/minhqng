@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
