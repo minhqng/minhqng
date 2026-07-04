@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   </h4>
   <p align="center">
-    <b>Bill Gates</b>
+    <b>Patrick McKenzie</b>
   </p>
 </div>
