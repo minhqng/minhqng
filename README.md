@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Being a good example is the best form of service."</i>
+    <i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
   </h4>
   <p align="center">
-    <b>Sathya Sai Baba</b>
+    <b>Albert Einstein</b>
   </p>
 </div>
