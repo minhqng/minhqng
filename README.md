@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Albert Einstein</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
