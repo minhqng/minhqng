@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Before software can be reusable it first has to be usable."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Ralph Johnson</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
