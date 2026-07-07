@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Richard Bach</b>
   </p>
 </div>
