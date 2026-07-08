@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Inspire yourself to be great. Being good isn't good enough."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Gurbaksh Chahal</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
