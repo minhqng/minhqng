@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best error message is the one that never shows up."</i>
+    <i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
   </h4>
   <p align="center">
-    <b>Thomas Fuchs</b>
+    <b>Paramahansa Yogananda</b>
   </p>
 </div>
