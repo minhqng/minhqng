@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is better to fail in originality than to succeed in imitation."</i>
+    <i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
   </h4>
   <p align="center">
-    <b>Herman Melville</b>
+    <b>William Faulkner</b>
   </p>
 </div>
