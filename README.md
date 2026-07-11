@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
+    <i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
   </h4>
   <p align="center">
-    <b>William Faulkner</b>
+    <b>Aristotle</b>
   </p>
 </div>
