@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+    <i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
   </h4>
   <p align="center">
-    <b>Aristotle</b>
+    <b>Albert Einstein</b>
   </p>
 </div>
