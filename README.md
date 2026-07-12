@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Albert Einstein</b>
+    <b>Cory House</b>
   </p>
 </div>
