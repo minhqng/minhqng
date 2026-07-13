@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>Colin R. Davis</b>
   </p>
 </div>
