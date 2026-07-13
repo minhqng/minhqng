@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+    <i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
   </h4>
   <p align="center">
-    <b>Colin R. Davis</b>
+    <b>Huang Po</b>
   </p>
 </div>
