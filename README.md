@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
