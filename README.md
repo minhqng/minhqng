@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Huang Po</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
