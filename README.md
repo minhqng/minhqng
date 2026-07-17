@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Never to suffer would never to have been blessed."</i>
+    <i>"Character is destiny."</i>
   </h4>
   <p align="center">
-    <b>Edgar Allan Poe</b>
+    <b>Heraclitus</b>
   </p>
 </div>
