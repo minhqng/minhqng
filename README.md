@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every day is an opportunity to a make a new happy ending."</i>
+    <i>"Never to suffer would never to have been blessed."</i>
   </h4>
   <p align="center">
-    <b>Jonathan Swift</b>
+    <b>Edgar Allan Poe</b>
   </p>
 </div>
