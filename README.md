@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Character is destiny."</i>
+    <i>"Simplicity is the soul of efficiency."</i>
   </h4>
   <p align="center">
-    <b>Heraclitus</b>
+    <b>Austin Freeman</b>
   </p>
 </div>
