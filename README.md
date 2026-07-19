@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
+    <i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
   </h4>
   <p align="center">
-    <b>Lao Tzu</b>
+    <b>Elbert Hubbard</b>
   </p>
 </div>
