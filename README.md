@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
+    <i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
   </h4>
   <p align="center">
-    <b>Antoine de Saint-Exupéry</b>
+    <b>Lao Tzu</b>
   </p>
 </div>
