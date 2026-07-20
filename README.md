@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+    <i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
   </h4>
   <p align="center">
-    <b>Dalai Lama</b>
+    <b>Herman Melville</b>
   </p>
 </div>
