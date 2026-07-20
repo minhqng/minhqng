@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+    <i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
   </h4>
   <p align="center">
-    <b>Elbert Hubbard</b>
+    <b>Dalai Lama</b>
   </p>
 </div>
