@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
+    <i>"It's better to stand by someone's side than by yourself."</i>
   </h4>
   <p align="center">
-    <b>Robert Greene</b>
+    <b>Jack London</b>
   </p>
 </div>
