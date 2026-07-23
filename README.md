@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's better to stand by someone's side than by yourself."</i>
+    <i>"The two most important days in your life are the day you are born and the day you find out why."</i>
   </h4>
   <p align="center">
-    <b>Jack London</b>
+    <b>Mark Twain</b>
   </p>
 </div>
