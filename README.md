@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
+    <i>"Evil is whatever distracts."</i>
   </h4>
   <p align="center">
-    <b>Robert Kiyosaki</b>
+    <b>Franz Kafka</b>
   </p>
 </div>
