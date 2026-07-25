@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Ken Thompson</b>
   </p>
 </div>
