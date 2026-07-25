@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
+    <i>"Progress is limited by your ability to change your mind."</i>
   </h4>
   <p align="center">
-    <b>Ken Thompson</b>
+    <b>Jack Butcher</b>
   </p>
 </div>
