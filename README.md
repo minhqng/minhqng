@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+    <i>"When you are totally at peace with yourself, nothing can shake you."</i>
   </h4>
   <p align="center">
-    <b>Henry Ward Beecher</b>
+    <b>Deepam Chaterjee</b>
   </p>
 </div>
