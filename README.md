@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Henry Ward Beecher</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
