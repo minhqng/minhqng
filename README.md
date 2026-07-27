@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When you are totally at peace with yourself, nothing can shake you."</i>
+    <i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
   </h4>
   <p align="center">
-    <b>Deepam Chaterjee</b>
+    <b>Henry Ward Beecher</b>
   </p>
 </div>
