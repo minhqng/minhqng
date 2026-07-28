@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Talk is cheap. Show me the code."</i>
+    <i>"Life is a series of choices and all we can do is make them."</i>
   </h4>
   <p align="center">
-    <b>Linus Torvalds</b>
+    <b>Kamal Ravikant</b>
   </p>
 </div>
