@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Life is a series of choices and all we can do is make them."</i>
+    <i>"On the other side of the clouds is a bright blue sky."</i>
   </h4>
   <p align="center">
-    <b>Kamal Ravikant</b>
+    <b>Unknown</b>
   </p>
 </div>
