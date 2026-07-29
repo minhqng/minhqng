@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+    <i>"Don't hate the player. Change the game."</i>
   </h4>
   <p align="center">
-    <b>Robert Kiyosaki</b>
+    <b>Steve Harvey</b>
   </p>
 </div>
