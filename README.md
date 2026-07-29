@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"On the other side of the clouds is a bright blue sky."</i>
+    <i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
   </h4>
   <p align="center">
-    <b>Unknown</b>
+    <b>Robert Kiyosaki</b>
   </p>
 </div>
