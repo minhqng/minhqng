@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i>
+    <i>"In nature there is no alienation. Everything belongs."</i>
   </h4>
   <p align="center">
-    <b>Cory House</b>
+    <b>Ming-Dao Deng</b>
   </p>
 </div>
