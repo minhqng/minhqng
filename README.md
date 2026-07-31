@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"In nature there is no alienation. Everything belongs."</i>
+    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   </h4>
   <p align="center">
-    <b>Ming-Dao Deng</b>
+    <b>Patrick McKenzie</b>
   </p>
 </div>
