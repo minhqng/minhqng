@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Jim Rohn</b>
   </p>
 </div>
