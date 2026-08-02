@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+    <i>"When it comes to mastering a skill, time is the magic ingredient."</i>
   </h4>
   <p align="center">
-    <b>Jim Rohn</b>
+    <b>Robert Greene</b>
   </p>
 </div>
