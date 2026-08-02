@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Robert Greene</b>
+    <b>Kent Beck</b>
   </p>
 </div>
