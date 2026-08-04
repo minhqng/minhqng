@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Anything becomes interesting if you look at it long enough.."</i>
+    <i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
   </h4>
   <p align="center">
-    <b>Gustave Flaubert</b>
+    <b>Robin Sharma</b>
   </p>
 </div>
