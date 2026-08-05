@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+    <i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
   </h4>
   <p align="center">
-    <b>Bill Gates</b>
+    <b>Steve Jobs</b>
   </p>
 </div>
