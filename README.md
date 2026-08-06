@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Martin Fowler</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
