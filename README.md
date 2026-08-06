@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The only way to learn a new programming language is by writing programs in it."</i>
+    <i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
   </h4>
   <p align="center">
-    <b>Dennis Ritchie</b>
+    <b>Eleanor Roosevelt</b>
   </p>
 </div>
