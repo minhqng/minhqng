@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Judge a man by his questions rather than his answers."</i>
+    <i>"Behind every cloud is another cloud."</i>
   </h4>
   <p align="center">
-    <b>Voltaire</b>
+    <b>Judy Garland</b>
   </p>
 </div>
