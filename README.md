@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"The number one cause of failure is the fear of failure."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Steve Harvey</b>
   </p>
 </div>
