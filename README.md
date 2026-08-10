@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+    <i>"Why do you stay in prison when the door is so wide open?"</i>
   </h4>
   <p align="center">
-    <b>Alan Watts</b>
+    <b>Rumi</b>
   </p>
 </div>
