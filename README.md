@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The number one cause of failure is the fear of failure."</i>
+    <i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
   </h4>
   <p align="center">
-    <b>Steve Harvey</b>
+    <b>Alan Watts</b>
   </p>
 </div>
