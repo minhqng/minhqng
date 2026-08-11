@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Why do you stay in prison when the door is so wide open?"</i>
+    <i>"Debugging is twice as hard as writing the code in the first place."</i>
   </h4>
   <p align="center">
-    <b>Rumi</b>
+    <b>Brian Kernighan</b>
   </p>
 </div>
