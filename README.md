@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Self-knowledge is the beginning of self-correction."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Norman Vincent Peale</b>
   </p>
 </div>
