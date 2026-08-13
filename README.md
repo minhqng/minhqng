@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Against the assault of laughter nothing can stand."</i>
+    <i>"The function of good software is to make the complex appear to be simple."</i>
   </h4>
   <p align="center">
-    <b>Mark Twain</b>
+    <b>Grady Booch</b>
   </p>
 </div>
