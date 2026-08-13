@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Self-knowledge is the beginning of self-correction."</i>
+    <i>"Against the assault of laughter nothing can stand."</i>
   </h4>
   <p align="center">
-    <b>Norman Vincent Peale</b>
+    <b>Mark Twain</b>
   </p>
 </div>
