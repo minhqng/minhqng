@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The function of good software is to make the complex appear to be simple."</i>
+    <i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
   </h4>
   <p align="center">
-    <b>Grady Booch</b>
+    <b>Henry Ford</b>
   </p>
 </div>
