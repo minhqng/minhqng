@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The more you praise and celebrate your life, the more there is in life to celebrate."</i>
+    <i>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
   </h4>
   <p align="center">
-    <b>Oprah Winfrey</b>
+    <b>Antoine de Saint-Exupéry</b>
   </p>
 </div>
