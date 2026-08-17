@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
   </h4>
   <p align="center">
-    <b>Dalai Lama</b>
+    <b>Ken Thompson</b>
   </p>
 </div>
