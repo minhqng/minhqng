@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Colin Powell</b>
   </p>
 </div>
