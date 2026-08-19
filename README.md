@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+    <i>"Invest in as much of yourself as you can, you are your own biggest asset by far."</i>
   </h4>
   <p align="center">
-    <b>Colin Powell</b>
+    <b>Warren Buffett</b>
   </p>
 </div>
