@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Invest in as much of yourself as you can, you are your own biggest asset by far."</i>
+    <i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
   </h4>
   <p align="center">
-    <b>Warren Buffett</b>
+    <b>Paulo Coelho</b>
   </p>
 </div>
