@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Paulo Coelho</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
