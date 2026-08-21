@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+    <i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
   </h4>
   <p align="center">
-    <b>Thomas Edison</b>
+    <b>James Allen</b>
   </p>
 </div>
