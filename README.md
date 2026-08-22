@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
+    <i>"Integrity is the ability to stand by an idea."</i>
   </h4>
   <p align="center">
-    <b>Ken Thompson</b>
+    <b>Ayn Rand</b>
   </p>
 </div>
