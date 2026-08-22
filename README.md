@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
   </h4>
   <p align="center">
-    <b>James Allen</b>
+    <b>Ken Thompson</b>
   </p>
 </div>
