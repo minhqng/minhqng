@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Integrity is the ability to stand by an idea."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Ayn Rand</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
