@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Good code is its own best documentation."</i>
+    <i>"There's no coming to consciousness without pain"</i>
   </h4>
   <p align="center">
-    <b>Steve McConnell</b>
+    <b>Carl Jung</b>
   </p>
 </div>
