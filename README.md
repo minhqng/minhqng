@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"There's no coming to consciousness without pain"</i>
+    <i>"Make no small plans for they have no power to stir the soul."</i>
   </h4>
   <p align="center">
-    <b>Carl Jung</b>
+    <b>Niccolo Machiavelli</b>
   </p>
 </div>
