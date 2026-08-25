@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make no small plans for they have no power to stir the soul."</i>
+    <i>"Not until we are lost do we begin to understand ourselves."</i>
   </h4>
   <p align="center">
-    <b>Niccolo Machiavelli</b>
+    <b>Henry David Thoreau</b>
   </p>
 </div>
