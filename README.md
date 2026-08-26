@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Not until we are lost do we begin to understand ourselves."</i>
+    <i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
   </h4>
   <p align="center">
-    <b>Henry David Thoreau</b>
+    <b>Carl Jung</b>
   </p>
 </div>
