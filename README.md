@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+    <i>"What are we doing here, that is the question."</i>
   </h4>
   <p align="center">
-    <b>Carl Jung</b>
+    <b>Samuel Beckett</b>
   </p>
 </div>
