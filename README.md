@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"What are we doing here, that is the question."</i>
+    <i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
   </h4>
   <p align="center">
-    <b>Samuel Beckett</b>
+    <b>Carl Jung</b>
   </p>
 </div>
