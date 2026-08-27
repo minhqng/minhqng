@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
+    <i>"The source of a true smile is an awakened mind."</i>
   </h4>
   <p align="center">
-    <b>Carl Jung</b>
+    <b>Thich Nhat Hanh</b>
   </p>
 </div>
