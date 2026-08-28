@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The source of a true smile is an awakened mind."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Thich Nhat Hanh</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
