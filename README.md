@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
+    <i>"Being wrong brings the opportunity for growth."</i>
   </h4>
   <p align="center">
-    <b>Harold Abelson</b>
+    <b>Mark Manson</b>
   </p>
 </div>
