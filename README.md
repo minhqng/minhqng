@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
   </h4>
   <p align="center">
-    <b>Ming-Dao Deng</b>
+    <b>Harold Abelson</b>
   </p>
 </div>
