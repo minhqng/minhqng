@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Being wrong brings the opportunity for growth."</i>
+    <i>"Believe and you're halfway there."</i>
   </h4>
   <p align="center">
-    <b>Mark Manson</b>
+    <b>Harry S. Truman</b>
   </p>
 </div>
