@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Believe and you're halfway there."</i>
+    <i>"Don't be afraid to see what you see."</i>
   </h4>
   <p align="center">
-    <b>Harry S. Truman</b>
+    <b>Ronald Reagan</b>
   </p>
 </div>
