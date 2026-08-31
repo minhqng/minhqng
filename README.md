@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Don't be afraid to see what you see."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Ronald Reagan</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
