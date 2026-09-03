@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
+    <i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
   </h4>
   <p align="center">
-    <b>Edsger Dijkstra</b>
+    <b>Harry S. Truman</b>
   </p>
 </div>
