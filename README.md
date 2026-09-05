@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
