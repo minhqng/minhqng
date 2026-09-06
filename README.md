@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
+    <i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune."</i>
   </h4>
   <p align="center">
-    <b>Bill Gates</b>
+    <b>Charles Swindoll</b>
   </p>
 </div>
