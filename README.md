@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Bill Gates</b>
   </p>
 </div>
