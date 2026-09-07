@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune."</i>
+    <i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree."</i>
   </h4>
   <p align="center">
-    <b>Charles Swindoll</b>
+    <b>Martin Luther</b>
   </p>
 </div>
