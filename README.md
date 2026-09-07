@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Martin Luther</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
