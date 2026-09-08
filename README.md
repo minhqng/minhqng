@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The function of good software is to make the complex appear to be simple."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Grady Booch</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
