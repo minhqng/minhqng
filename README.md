@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Henry David Thoreau</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
