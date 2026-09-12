@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Debugging is twice as hard as writing the code in the first place."</i>
+    <i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
   </h4>
   <p align="center">
-    <b>Brian Kernighan</b>
+    <b>Robert Collier</b>
   </p>
 </div>
