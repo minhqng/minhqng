@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+    <i>"There is an essence of when you are fearless, you become more creative."</i>
   </h4>
   <p align="center">
-    <b>Robert Collier</b>
+    <b>Gurbaksh Chahal</b>
   </p>
 </div>
