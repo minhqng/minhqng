@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Invisible things are the only realities."</i>
+    <i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
   </h4>
   <p align="center">
-    <b>Edgar Allan Poe</b>
+    <b>William James</b>
   </p>
 </div>
