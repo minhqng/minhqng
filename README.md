@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+    <i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
   </h4>
   <p align="center">
-    <b>William James</b>
+    <b>Arnold Schwarzenegger</b>
   </p>
 </div>
