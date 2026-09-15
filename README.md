@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Arnold Schwarzenegger</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
