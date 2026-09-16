@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"When a man is penalized for honesty he learns to lie."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Criss Jami</b>
   </p>
 </div>
