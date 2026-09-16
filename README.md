@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When a man is penalized for honesty he learns to lie."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Criss Jami</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
