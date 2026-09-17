@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It takes real work to grasp what is invisible to just about everyone else."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Ryan Holiday</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
