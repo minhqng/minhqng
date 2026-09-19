@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+    <i>"The most important thing in communication is to hear what isn't being said."</i>
   </h4>
   <p align="center">
-    <b>Dan Millman</b>
+    <b>Peter Drucker</b>
   </p>
 </div>
