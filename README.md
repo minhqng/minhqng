@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"First, solve the problem. Then, write the code."</i>
+    <i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
   </h4>
   <p align="center">
-    <b>John Johnson</b>
+    <b>Dan Millman</b>
   </p>
 </div>
