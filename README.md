@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The future is no more uncertain than the present."</i>
+    <i>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</i>
   </h4>
   <p align="center">
-    <b>Walt Whitman</b>
+    <b>Patrick McKenzie</b>
   </p>
 </div>
