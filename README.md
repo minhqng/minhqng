@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I am thankful to all those who said no. It's because of them, I did it myself."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Wayne Dyer</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
