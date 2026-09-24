@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Conscience is a man's compass."</i>
+    <i>"I am thankful to all those who said no. It's because of them, I did it myself."</i>
   </h4>
   <p align="center">
-    <b>Vincent van Gogh</b>
+    <b>Wayne Dyer</b>
   </p>
 </div>
