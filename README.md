@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>Oprah Winfrey</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
