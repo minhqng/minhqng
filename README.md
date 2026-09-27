@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Brian Tracy</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
