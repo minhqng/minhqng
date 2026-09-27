@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
+    <i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
   </h4>
   <p align="center">
-    <b>Alexander Graham Bell</b>
+    <b>Brian Tracy</b>
   </p>
 </div>
