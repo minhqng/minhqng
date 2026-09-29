@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You can't get to a place that you don't believe exists."</i>
+    <i>"Heroes don't need to talk about what they did."</i>
   </h4>
   <p align="center">
-    <b>Unknown</b>
+    <b>W.P. Kinsella</b>
   </p>
 </div>
