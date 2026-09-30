@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I defeat my enemies when I make them my friends."</i>
+    <i>"A wise man will be master of his mind, a fool will be its slave."</i>
   </h4>
   <p align="center">
-    <b>Dalai Lama</b>
+    <b>Publilius Syrus</b>
   </p>
 </div>
