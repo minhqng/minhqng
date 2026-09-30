@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Heroes don't need to talk about what they did."</i>
+    <i>"I defeat my enemies when I make them my friends."</i>
   </h4>
   <p align="center">
-    <b>W.P. Kinsella</b>
+    <b>Dalai Lama</b>
   </p>
 </div>
