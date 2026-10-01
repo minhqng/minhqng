@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A wise man will be master of his mind, a fool will be its slave."</i>
+    <i>"Everything is possible. The impossible just takes longer."</i>
   </h4>
   <p align="center">
-    <b>Publilius Syrus</b>
+    <b>Dan Brown</b>
   </p>
 </div>
