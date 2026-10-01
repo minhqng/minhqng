@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Everything is possible. The impossible just takes longer."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Dan Brown</b>
+    <b>Cory House</b>
   </p>
 </div>
