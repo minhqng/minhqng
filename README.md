@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Each time we don't say what we wanna say, we're dying."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Yoko Ono</b>
   </p>
 </div>
