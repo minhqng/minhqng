@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Each time we don't say what we wanna say, we're dying."</i>
+    <i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
   </h4>
   <p align="center">
-    <b>Yoko Ono</b>
+    <b>Bob Marley</b>
   </p>
 </div>
