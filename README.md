@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+    <i>"Take the high road; it's far less crowded."</i>
   </h4>
   <p align="center">
-    <b>Bob Marley</b>
+    <b>Warren Buffett</b>
   </p>
 </div>
