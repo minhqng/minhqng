@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Take the high road; it's far less crowded."</i>
+    <i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
   </h4>
   <p align="center">
-    <b>Warren Buffett</b>
+    <b>George Bernard Shaw</b>
   </p>
 </div>
