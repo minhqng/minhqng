@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>George Bernard Shaw</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
