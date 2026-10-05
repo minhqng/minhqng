@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The only way to learn a new programming language is by writing programs in it."</i>
+    <i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
   </h4>
   <p align="center">
-    <b>Dennis Ritchie</b>
+    <b>Sonia Ricotti</b>
   </p>
 </div>
