@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Act the way you want to be and soon you'll be the way you act."</i>
+    <i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."</i>
   </h4>
   <p align="center">
-    <b>Les Brown</b>
+    <b>Buddha</b>
   </p>
 </div>
