@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
+    <i>"Act the way you want to be and soon you'll be the way you act."</i>
   </h4>
   <p align="center">
-    <b>Sonia Ricotti</b>
+    <b>Les Brown</b>
   </p>
 </div>
