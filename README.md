@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+    <i>"He that can have patience can have what he will."</i>
   </h4>
   <p align="center">
-    <b>Martin Fowler</b>
+    <b>Benjamin Franklin</b>
   </p>
 </div>
