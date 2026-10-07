@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Buddha</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
