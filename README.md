@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
   </h4>
   <p align="center">
-    <b>Spencer Johnson</b>
+    <b>Bill Gates</b>
   </p>
 </div>
