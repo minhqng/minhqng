@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"He that can have patience can have what he will."</i>
+    <i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
   </h4>
   <p align="center">
-    <b>Benjamin Franklin</b>
+    <b>Spencer Johnson</b>
   </p>
 </div>
