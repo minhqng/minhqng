@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The harder you work, the harder it is to surrender."</i>
+    <i>"Investing in yourself is the best investment you will ever make."</i>
   </h4>
   <p align="center">
-    <b>Vince Lombardi</b>
+    <b>Robin Sharma</b>
   </p>
 </div>
