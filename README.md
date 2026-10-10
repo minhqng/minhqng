@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Investing in yourself is the best investment you will ever make."</i>
+    <i>"Keep away from people who try to belittle your ambitions."</i>
   </h4>
   <p align="center">
-    <b>Robin Sharma</b>
+    <b>Mark Twain</b>
   </p>
 </div>
