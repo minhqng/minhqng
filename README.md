@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Keep away from people who try to belittle your ambitions."</i>
+    <i>"Make it work, make it right, make it fast."</i>
   </h4>
   <p align="center">
-    <b>Mark Twain</b>
+    <b>Kent Beck</b>
   </p>
 </div>
