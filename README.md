@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Make it work, make it right, make it fast."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Kent Beck</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
