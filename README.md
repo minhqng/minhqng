@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+    <i>"All men are equal before fish."</i>
   </h4>
   <p align="center">
-    <b>Voltaire</b>
+    <b>Herbert Hoover</b>
   </p>
 </div>
