@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"All men are equal before fish."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Herbert Hoover</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
