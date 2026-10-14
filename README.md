@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I will not walk backward in life."</i>
+    <i>"Always remember that you are absolutely unique. Just like everyone else."</i>
   </h4>
   <p align="center">
-    <b>J.R.R. Tolkien</b>
+    <b>Margaret Mead</b>
   </p>
 </div>
