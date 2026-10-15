@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Never do to others what you would not like them to do to you."</i>
+    <i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
   </h4>
   <p align="center">
-    <b>Confucius</b>
+    <b>Brian Tracy</b>
   </p>
 </div>
