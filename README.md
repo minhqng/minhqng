@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Good code is its own best documentation."</i>
+    <i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
   </h4>
   <p align="center">
-    <b>Steve McConnell</b>
+    <b>Brian Tracy</b>
   </p>
 </div>
