@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>Celestine Chua</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
