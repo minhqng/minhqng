@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+    <i>"The only way to learn a new programming language is by writing programs in it."</i>
   </h4>
   <p align="center">
-    <b>Brian Tracy</b>
+    <b>Dennis Ritchie</b>
   </p>
 </div>
