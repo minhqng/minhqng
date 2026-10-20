@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+    <i>"Dreams are the royal road to the unconscious."</i>
   </h4>
   <p align="center">
-    <b>Zhuangzi</b>
+    <b>Sigmund Freud</b>
   </p>
 </div>
