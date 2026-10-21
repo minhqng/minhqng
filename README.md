@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
+    <i>"One of the most difficult things is not to change society - but to change yourself."</i>
   </h4>
   <p align="center">
-    <b>Edsger Dijkstra</b>
+    <b>Nelson Mandela</b>
   </p>
 </div>
