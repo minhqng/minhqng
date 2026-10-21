@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"One of the most difficult things is not to change society - but to change yourself."</i>
+    <i>"Let not your mind run on what you lack as much as on what you have already."</i>
   </h4>
   <p align="center">
-    <b>Nelson Mandela</b>
+    <b>Marcus Aurelius</b>
   </p>
 </div>
