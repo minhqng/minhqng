@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The harder you work for something, the greater you'll feel when you achieve it."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Colin R. Davis</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
