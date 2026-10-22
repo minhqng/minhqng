@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Let not your mind run on what you lack as much as on what you have already."</i>
+    <i>"The harder you work for something, the greater you'll feel when you achieve it."</i>
   </h4>
   <p align="center">
-    <b>Marcus Aurelius</b>
+    <b>Colin R. Davis</b>
   </p>
 </div>
