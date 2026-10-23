@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is our choices that show what we truly are, far more than our abilities."</i>
+    <i>"Find your Light; They can't love you if they can't see you."</i>
   </h4>
   <p align="center">
-    <b>Albus Dumbledore</b>
+    <b>Bette Midler</b>
   </p>
 </div>
