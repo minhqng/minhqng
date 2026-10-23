@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Talk is cheap. Show me the code."</i>
+    <i>"It is our choices that show what we truly are, far more than our abilities."</i>
   </h4>
   <p align="center">
-    <b>Linus Torvalds</b>
+    <b>Albus Dumbledore</b>
   </p>
 </div>
