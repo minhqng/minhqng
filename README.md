@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you can change your mind, you can change your life."</i>
+    <i>"Good code is its own best documentation."</i>
   </h4>
   <p align="center">
-    <b>William James</b>
+    <b>Steve McConnell</b>
   </p>
 </div>
