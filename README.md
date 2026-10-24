@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Find your Light; They can't love you if they can't see you."</i>
+    <i>"If you can change your mind, you can change your life."</i>
   </h4>
   <p align="center">
-    <b>Bette Midler</b>
+    <b>William James</b>
   </p>
 </div>
