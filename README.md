@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Trusting our intuition often saves us from disaster."</i>
+    <i>"Talk is cheap. Show me the code."</i>
   </h4>
   <p align="center">
-    <b>Anne Wilson Schaef</b>
+    <b>Linus Torvalds</b>
   </p>
 </div>
