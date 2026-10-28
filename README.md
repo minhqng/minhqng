@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The world makes way for the man who knows where he is going."</i>
+    <i>"Every act of creation is first an act of destruction."</i>
   </h4>
   <p align="center">
-    <b>Ralph Waldo Emerson</b>
+    <b>Pablo Picasso</b>
   </p>
 </div>
