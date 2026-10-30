@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Nelson Mandela</b>
+    <b>John Johnson</b>
   </p>
 </div>
