@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i>
+    <i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
   </h4>
   <p align="center">
-    <b>Edsger Dijkstra</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
