@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Roy T. Bennett</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
