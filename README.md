@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Simplicity is the soul of efficiency."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Austin Freeman</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
