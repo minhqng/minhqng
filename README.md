@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+    <i>"What you do today can improve all your tomorrows."</i>
   </h4>
   <p align="center">
-    <b>Maxime Lagace</b>
+    <b>Ralph Marston</b>
   </p>
 </div>
