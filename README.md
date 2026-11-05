@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
+    <i>"The function of good software is to make the complex appear to be simple."</i>
   </h4>
   <p align="center">
-    <b>Harold Abelson</b>
+    <b>Grady Booch</b>
   </p>
 </div>
