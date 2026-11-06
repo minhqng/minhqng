@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
   </h4>
   <p align="center">
-    <b>Steve Jobs</b>
+    <b>Martin Fowler</b>
   </p>
 </div>
