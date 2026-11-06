@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
+    <i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
   </h4>
   <p align="center">
-    <b>Harry S. Truman</b>
+    <b>Steve Jobs</b>
   </p>
 </div>
