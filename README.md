@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"One of my most productive days was throwing away 1,000 lines of code."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Ken Thompson</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
