@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The best dreams happen when you're awake."</i>
+    <i>"Life is what happens to you while you're busy making other plans."</i>
   </h4>
   <p align="center">
-    <b>Cherie Gilderbloom</b>
+    <b>John Lennon</b>
   </p>
 </div>
