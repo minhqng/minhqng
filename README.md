@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Life is what happens to you while you're busy making other plans."</i>
+    <i>"Java is to JavaScript what car is to carpet."</i>
   </h4>
   <p align="center">
-    <b>John Lennon</b>
+    <b>Chris Heilmann</b>
   </p>
 </div>
