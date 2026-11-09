@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Java is to JavaScript what car is to carpet."</i>
+    <i>"Convinced myself, I seek not to convince."</i>
   </h4>
   <p align="center">
-    <b>Chris Heilmann</b>
+    <b>Edgar Allan Poe</b>
   </p>
 </div>
