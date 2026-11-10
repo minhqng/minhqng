@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Convinced myself, I seek not to convince."</i>
+    <i>"Your success and happiness lie in you."</i>
   </h4>
   <p align="center">
-    <b>Edgar Allan Poe</b>
+    <b>Helen Keller</b>
   </p>
 </div>
