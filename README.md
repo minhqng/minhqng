@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"We would accomplish many more things if we did not think of them as impossible."</i>
+    <i>"Before software can be reusable it first has to be usable."</i>
   </h4>
   <p align="center">
-    <b>Vince Lombardi</b>
+    <b>Ralph Johnson</b>
   </p>
 </div>
