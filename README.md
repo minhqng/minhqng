@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+    <i>"First, solve the problem. Then, write the code."</i>
   </h4>
   <p align="center">
-    <b>Audrey Hepburn</b>
+    <b>John Johnson</b>
   </p>
 </div>
