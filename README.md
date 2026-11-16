@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Some people dream of success, while others wake up and work hard at it."</i>
+    <i>"It is truth that liberates, not your effort to be free."</i>
   </h4>
   <p align="center">
-    <b>Napoleon Hill</b>
+    <b>Jiddu Krishnamurti</b>
   </p>
 </div>
