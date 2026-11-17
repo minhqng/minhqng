@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It is truth that liberates, not your effort to be free."</i>
+    <i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
   </h4>
   <p align="center">
-    <b>Jiddu Krishnamurti</b>
+    <b>Alexandre Dumas</b>
   </p>
 </div>
