@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
+    <i>"It's not a bug — it's an undocumented feature."</i>
   </h4>
   <p align="center">
-    <b>Kahlil Gibran</b>
+    <b>Anonymous</b>
   </p>
 </div>
