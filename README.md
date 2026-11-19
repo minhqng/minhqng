@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+    <i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i>
   </h4>
   <p align="center">
-    <b>Bruce Lee</b>
+    <b>Bill Gates</b>
   </p>
 </div>
