@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"It's not a bug — it's an undocumented feature."</i>
+    <i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
   </h4>
   <p align="center">
-    <b>Anonymous</b>
+    <b>Bruce Lee</b>
   </p>
 </div>
