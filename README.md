@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
+    <i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
   </h4>
   <p align="center">
-    <b>Martin Fowler</b>
+    <b>Robert F. Kennedy</b>
   </p>
 </div>
