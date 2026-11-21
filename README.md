@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+    <i>"The best error message is the one that never shows up."</i>
   </h4>
   <p align="center">
-    <b>Robert F. Kennedy</b>
+    <b>Thomas Fuchs</b>
   </p>
 </div>
