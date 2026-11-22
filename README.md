@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"I will not walk backward in life."</i>
+    <i>"If you don't know where you're going, you will probably end up somewhere else."</i>
   </h4>
   <p align="center">
-    <b>J.R.R. Tolkien</b>
+    <b>Laurence J. Peter</b>
   </p>
 </div>
