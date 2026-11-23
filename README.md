@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"You're always free to change your mind and choose a different future, or a different past."</i>
+    <i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
   </h4>
   <p align="center">
-    <b>Richard Bach</b>
+    <b>Roy T. Bennett</b>
   </p>
 </div>
