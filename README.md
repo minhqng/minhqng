@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+    <i>"You're always free to change your mind and choose a different future, or a different past."</i>
   </h4>
   <p align="center">
-    <b>Laurence J. Peter</b>
+    <b>Richard Bach</b>
   </p>
 </div>
