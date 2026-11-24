@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
+    <i>"Code is like humor. When you have to explain it, it's bad."</i>
   </h4>
   <p align="center">
-    <b>Maya Angelou</b>
+    <b>Cory House</b>
   </p>
 </div>
