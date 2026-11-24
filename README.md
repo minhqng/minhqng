@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+    <i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
   </h4>
   <p align="center">
-    <b>Roy T. Bennett</b>
+    <b>Maya Angelou</b>
   </p>
 </div>
