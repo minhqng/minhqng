@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+    <i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
   </h4>
   <p align="center">
-    <b>John Carmack</b>
+    <b>Sydney Smith</b>
   </p>
 </div>
