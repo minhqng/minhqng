@@ -30,9 +30,9 @@
 <br><br>
 <div align="center">
   <h4 align="center">
-    <i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+    <i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
   </h4>
   <p align="center">
-    <b>Sydney Smith</b>
+    <b>Eric Hoffer</b>
   </p>
 </div>
